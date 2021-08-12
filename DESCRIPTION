@@ -1,0 +1,10 @@
+Package: utils
+Type: Package
+Title: Personal R Utilities Package
+Version: 0.1.0
+Author: Eben Pendleton
+Maintainer: Eben Pendleton, "4080051+ebenp@users.noreply.github.com"
+Description: Package for miscellaneous R utilities I've developed 
+License: MIT license
+Encoding: UTF-8
+LazyData: true
